@@ -1,0 +1,79 @@
+.number-guessing-game {
+  text-align: center;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+.number-guessing-game h2 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.number-guessing-game form {
+  margin-top: 20px;
+}
+
+.number-guessing-game input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.number-guessing-game button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.number-guessing-game button:hover {
+  background-color: #45a049;
+}
+
+.number-guessing-game .message {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.number-guessing-game .attempts-left {
+  color: #666;
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.number-guessing-game .reset-button {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  color: #fff;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.btn-outline-secondary {
+  color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-outline-secondary:hover {
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.text-danger {
+  color: #dc3545;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */

@@ -1,0 +1,8 @@
+HIGHER ORDER COMPONENT - THAT TAKES A COMPONENT AND RETURNS A COMPONENT
+
+IT enhances that component .It takes an existing component and enhances it .
+
+controlled and uncontrolled components 
+
+UI layer
+data layer
